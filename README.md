@@ -5,8 +5,13 @@
 ## GIT update from RaspberryPi Desktop
 ```
 sudo apt install git
-sudo clone https://gitub.com/.........git
+git clone https://gitub.com/.........git
 cd /path/to/dir
+```
+Setup account's identity:  
+```
+git config --global user.name <username>
+git config --global user.email <email_id>
 ```
 For new file or change in existing file:  
 ```
