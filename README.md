@@ -1,6 +1,11 @@
 | Created on | <small>Updated on</small> | <small>Author</small> |
 |----------------------------|----------------------------|------------------------|
-| <small>02.05.2024</small>  | <small>02.05.2024</small>  | <small>Hema</small>    |
+| <small>02.05.2024</small>  | <small>05.05.2024</small>  | <small>Hema</small>    |
+
+## Aim
+
+Repository containing practice scripts for RaspberryPI Zero W.  
+Scope ranges from revising concepts to learning new features.  
 
 ## GIT update from RaspberryPi Desktop
 ```
